@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoFly</string>
+    <string name="mapButton_Text">A</string>
+    <string name="mapButton_ContentDesc">AutoFly</string>
+    <string name="title_activity_map">Map</string>
+    <string name="google_app_id">Google_App_ID_String</string>
+</resources>
